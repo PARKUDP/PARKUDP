@@ -1,6 +1,10 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=PARKUDP&label=PROFILE+VIEWS)
-
+<p align="left">
+  <a href="https://github.com/PARKUDP">
+    <img height="20" src="https://komarev.com/ghpvc/?username=PARKUDP&color=grey" />
+  </a>
+</p>
 <!--
 **PARKUDP/PARKUDP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
