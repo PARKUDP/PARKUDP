@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PARKUDP&theme=nord_dark&utcOffset=9)
 
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=PARKUDP&theme=nord_dark)
+![](https://raw.githubusercontent.com/PARKUDP/PARKUDP/output/github-contribution-grid-snake.svg)
+
 <p align="left">
   <a href="https://github.com/PARKUDP">
     <img height="20" src="https://komarev.com/ghpvc/?username=PARKUDP&color=orange&label=PROFILE+VIEWS" />
