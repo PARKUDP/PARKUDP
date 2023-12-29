@@ -12,6 +12,12 @@
   <a href="https://qiita.com/PARK_UDP">
     <img height="20" src="https://qiita-badge.apiapi.app/s/PARK_UDP/contributions.svg" />
   </a>
+  <a>
+    <img src="https://badgen.org/img/zenn/park_udp/articles?style=plastic" alt="Articles" />
+  </a>
+  <a>
+    <img src="https://badgen.org/img/zenn/park_udp/followers?style=plastic" alt="Followers" />
+  </a>
 </p>
 <!--
 **PARKUDP/PARKUDP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
