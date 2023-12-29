@@ -1,5 +1,31 @@
-### Hi👋 Welcome to my Github!!
+# Hi👋 Welcome to my Github!!
 ## Profile
+Hi👋
+I'm studying Computer science & intelligent systems at the Faculty of Engineering☺
+### Language
+- Korean
+- japanese
+
+### Programming Language
+- Python
+- C
+- C++
+- Arduino
+- Java
+
+### I'm still studying
+- Pytorch
+- flutter
+- Network
+- OpenCV
+- AWS
+- Javascript
+
+### Hobby
+- weight training
+- reading books
+- watching news
+
 <p align="left">
   <a href="https://github.com/PARKUDP">
     <img height="20" src="https://komarev.com/ghpvc/?username=PARKUDP&color=orange&label=PROFILE+VIEWS" />
