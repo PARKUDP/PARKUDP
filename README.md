@@ -12,7 +12,7 @@
   <a href="http://qiita.com/PARKUDP">
     <img height="20" src="https://qiita-badge.apiapi.app/s/PARKUDP/contributions.svg" />
   </a>
-  <a href="https://zenn.dev/PARKUDP">
+  <a href="[https://zenn.dev/PARKUDP](https://zenn.dev/park_udp)">
     <img height="20" src="https://badgen.org/img/zenn/keichan_15/articles?style=plastic" />
   </a>
 </p>
