@@ -1,8 +1,10 @@
-### Hi there 👋
-![](https://komarev.com/ghpvc/?username=PARKUDP&)
+### Hi👋 Welcome to my Github!!
 <p align="left">
   <a href="https://github.com/PARKUDP">
     <img height="20" src="https://komarev.com/ghpvc/?username=PARKUDP&color=orange&label=PROFILE+VIEWS" />
+  </a>
+  <a href="https://github.com/PARKUDP">
+    <img height="20" src="https://img.shields.io/github/followers/PARKUDP?label=follow&logo=github&style=flat" />
   </a>
 </p>
 <!--
