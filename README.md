@@ -19,6 +19,7 @@ Hi👋I'm studying Computer science & intelligent systems at the Faculty of Engi
 - OpenCV
 - AWS
 - Javascript
+- English
 
 ### Hobby⚡
 - weight training
