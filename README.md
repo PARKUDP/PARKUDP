@@ -1,18 +1,18 @@
 # Hi👋 Welcome to my Github!!
-## Profile
-Hi👋I'm studying Computer science & intelligent systems at the Faculty of Engineering🫠
+## Profile👱‍♂️
+Hi👋I'm studying Computer science & intelligent systems at the Faculty of Engineering😙
 ### Language
 - Korean
 - japanese
 
-### Programming Language
+### Programming Language🔭
 - Python
 - C
 - C++
 - Arduino
 - Java
 
-### I'm still studying
+### I’m currently learning🌱
 - Pytorch
 - flutter
 - Network
@@ -20,7 +20,7 @@ Hi👋I'm studying Computer science & intelligent systems at the Faculty of Engi
 - AWS
 - Javascript
 
-### Hobby
+### Hobby⚡
 - weight training
 - reading books
 - watching news
@@ -46,20 +46,6 @@ Hi👋I'm studying Computer science & intelligent systems at the Faculty of Engi
   </a>
 </p>
 
-<!--
-**PARKUDP/PARKUDP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## Stats
 ![](https://raw.githubusercontent.com/PARKUDP/PARKUDP/output/github-contribution-grid-snake.svg)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PARKUDP&theme=nord_dark	)
