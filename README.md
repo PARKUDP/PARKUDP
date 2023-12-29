@@ -1,8 +1,8 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=PARKUDP&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=PARKUDP&)
 <p align="left">
   <a href="https://github.com/PARKUDP">
-    <img height="20" src="https://komarev.com/ghpvc/?username=PARKUDP&color=grey" />
+    <img height="20" src="https://komarev.com/ghpvc/?username=PARKUDP&color=orange&label=PROFILE+VIEWS" />
   </a>
 </p>
 <!--
