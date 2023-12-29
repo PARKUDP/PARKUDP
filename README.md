@@ -49,7 +49,7 @@ Hi👋I'm studying Computer science & intelligent systems at the Faculty of Engi
 
 ## Stats🔥
 ![](https://raw.githubusercontent.com/PARKUDP/PARKUDP/output/github-contribution-grid-snake.svg)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PARKUDP&theme=nord_dark	)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PARKUDP&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PARKUDP&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PARKUDP&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PARKUDP&theme=nord_dark)
