@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PARKUDP&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PARKDUP&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PARKDUP&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PARKUDP&theme=nord_dark	)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PARKDUP&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PARKUDP&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PARKDUP&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PARKDUP&theme=gruvbox&utcOffset=9)
 
