@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PARKUDP&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PARKDUP&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PARKDUP&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PARKDUP&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PARKDUP&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=PARKUDP&theme=gruvbox)
 <p align="left">
   <a href="https://github.com/PARKUDP">
     <img height="20" src="https://komarev.com/ghpvc/?username=PARKUDP&color=orange&label=PROFILE+VIEWS" />
