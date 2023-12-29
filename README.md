@@ -1,7 +1,7 @@
 # Hi👋 Welcome to my Github!!
 ## Profile
 Hi👋
-I'm studying Computer science & intelligent systems at the Faculty of Engineering☺
+I'm studying Computer science & intelligent systems at the Faculty of Engineering
 ### Language
 - Korean
 - japanese
