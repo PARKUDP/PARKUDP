@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PARKDUP&theme=gruvbox&utcOffset=9)
 
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=PARKUDP&theme=gruvbox)
+![trophy](https://github-profile-trophy.vercel.app/?username=PARKUDP&theme=nord_dark)
 <p align="left">
   <a href="https://github.com/PARKUDP">
     <img height="20" src="https://komarev.com/ghpvc/?username=PARKUDP&color=orange&label=PROFILE+VIEWS" />
