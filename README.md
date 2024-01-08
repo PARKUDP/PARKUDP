@@ -48,13 +48,9 @@ Hi👋I'm studying Computer science & intelligent systems at the Faculty of Engi
 </p>
 
 ## Stats🔥
-![](https://raw.githubusercontent.com/PARKUDP/PARKUDP/output/github-contribution-grid-snake.svg)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PARKUDP&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PARKUDP&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PARKUDP&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PARKUDP&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PARKUDP&theme=nord_dark&utcOffset=9)
-[![PARKUDP's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARKUDP)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARKUDP&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=PARKUDP&theme=onedark&show_icons=ture" />
+</p>
 ## Trophy🔥
 ![trophy](https://github-profile-trophy.vercel.app/?username=PARKUDP&theme=nord_dark)
