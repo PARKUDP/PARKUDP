@@ -54,6 +54,7 @@ Hi👋I'm studying Computer science & intelligent systems at the Faculty of Engi
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PARKUDP&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PARKUDP&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PARKUDP&theme=nord_dark&utcOffset=9)
+[![PARKUDP's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARKUDP)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Trophy🔥
 ![trophy](https://github-profile-trophy.vercel.app/?username=PARKUDP&theme=nord_dark)
