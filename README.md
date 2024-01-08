@@ -54,4 +54,4 @@ Hi👋I'm studying Computer science & intelligent systems at the Faculty of Engi
 </p>
 
 ## Trophy🔥
-![trophy](https://github-profile-trophy.vercel.app/?username=PARKUDP&theme=nord_dark)
+![trophy](https://github-profile-trophy.vercel.app/?username=PARKUDP&theme=onedark)
