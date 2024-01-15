@@ -18,6 +18,7 @@ Hi👋I'm studying Computer science & intelligent systems at the Faculty of Engi
 - Network
 - OpenCV
 - AWS
+- Streamlit
 - Javascript
 - English
 
