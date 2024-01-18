@@ -17,7 +17,7 @@ Hi👋I'm studying Computer science & intelligent systems at the Faculty of Engi
 - flutter
 - Network
 - OpenCV
-- AWS
+- React
 - Streamlit
 - Javascript
 - English
