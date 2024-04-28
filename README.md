@@ -11,6 +11,7 @@ Hi👋I'm studying Computer science & intelligent systems at the Faculty of Engi
 - C++
 - Arduino
 - Java
+- Dart
 
 ### I’m currently learning🌱
 - Pytorch
@@ -18,7 +19,6 @@ Hi👋I'm studying Computer science & intelligent systems at the Faculty of Engi
 - Network
 - OpenCV
 - React
-- Streamlit
 - Javascript
 - English
 - math
