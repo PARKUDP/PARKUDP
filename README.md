@@ -12,6 +12,7 @@ Hi👋I'm studying Computer science & intelligent systems at the Faculty of Engi
 - Arduino
 - Java
 - Dart
+- JavaScript(React)
 
 ### I’m currently learning🌱
 - Pytorch
