@@ -58,3 +58,7 @@ Hi👋I'm studying Computer science & intelligent systems at the Faculty of Engi
 
 ## Trophy🔥
 ![trophy](https://github-profile-trophy.vercel.app/?username=PARKUDP&theme=onedark)
+
+## Looking for Sponsors🥰
+<a href="https://www.buymeacoffee.com/parkudp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
