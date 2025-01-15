@@ -60,4 +60,4 @@ Hi👋I'm studying Computer science & intelligent systems at the Faculty of Engi
 ![trophy](https://github-profile-trophy.vercel.app/?username=PARKUDP&theme=onedark)
 
 ## Looking for Sponsors🥰
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="parkudp" data-color="#4d4c4c" data-emoji="☕"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+<a href="https://www.buymeacoffee.com/parkudp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
