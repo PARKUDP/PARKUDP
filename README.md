@@ -31,9 +31,6 @@ Hi👋I'm studying Computer science & intelligent systems at the Faculty of Engi
 
 <p align="left">
   <a href="https://github.com/PARKUDP">
-    <img height="20" src="https://komarev.com/ghpvc/?username=PARKUDP&color=orange&label=PROFILE+VIEWS" />
-  </a>
-  <a href="https://github.com/PARKUDP">
     <img height="20" src="https://img.shields.io/github/followers/PARKUDP?label=follow&logo=github&style=flat" />
   </a>
    <a href="https://qiita.com/PARK_UDP">
