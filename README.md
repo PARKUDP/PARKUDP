@@ -53,7 +53,9 @@ Hi👋I'm studying Computer science & intelligent systems at the Faculty of Engi
 ## Stats🔥
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=PARKUDP&theme=onedark&show_icons=ture" />
-  <img alt="Profile details card" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PARKUDP&theme=gruvbox"
+  <img alt="Profile details card" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PARKUDP&theme=gruvbox" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={PARKUDP}
+)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ## Trophy🔥
