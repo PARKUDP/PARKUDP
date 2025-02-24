@@ -48,11 +48,7 @@ Passionate about **technology, problem-solving, and learning new things**! 🚀
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/PARKUDP">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PARKUDP&theme=onedark&hide_border=true" alt="GitHub Streak" />
-  </a>
-  
+<p align="center">  
   <a href="https://github.com/PARKUDP">
     <img alt="GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=PARKUDP&theme=onedark&show_icons=true&hide_border=true" />
   </a>  
