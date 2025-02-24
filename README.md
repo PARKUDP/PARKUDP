@@ -24,10 +24,10 @@ Passionate about **technology, problem-solving, and learning new things**! 🚀
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ### **📚 Currently Learning**
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Networking](https://img.shields.io/badge/-Networking-00599C?style=flat-square&logo=cisco&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Mathematics](https://img.shields.io/badge/-Mathematics-008080?style=flat-square)
@@ -49,7 +49,6 @@ Passionate about **technology, problem-solving, and learning new things**! 🚀
 
 ## 📊 GitHub Stats
 <p align="center">
-  
   <a href="https://github.com/PARKUDP">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=PARKUDP&theme=onedark&hide_border=true" alt="GitHub Streak" />
   </a>
